@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Dropbox\PC\Documents\VS Purple\Kasir Rumah Sakit\Kasir Rumah Sakit\x64\Debug\Kasir Rumah Sakit.vcxproj.AssemblyReference.cache
+C:\Users\Lenovo\Dropbox\PC\Documents\VS Purple\Kasir Rumah Sakit\Kasir Rumah Sakit\x64\Debug\Kasir Rumah Sakit.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Dropbox\PC\Documents\VS Purple\Kasir Rumah Sakit\Kasir Rumah Sakit\x64\Debug\Kasir Rumah Sakit.vcxproj.GenerateResource.cache
+C:\Users\Lenovo\Dropbox\PC\Documents\VS Purple\Kasir Rumah Sakit\Kasir Rumah Sakit\x64\Debug\KasirRumahSakit.MyForm.resources
+C:\Users\Lenovo\Dropbox\PC\Documents\VS Purple\Kasir Rumah Sakit\Kasir Rumah Sakit\x64\Debug\KasirRumahSakit.MyForm2.resources
